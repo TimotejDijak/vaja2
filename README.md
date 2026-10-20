@@ -4,4 +4,4 @@ Spletna predstavitev skupinskega projekta pri predmetu Razvoj produktov in stori
 
 Skupina: Timotej Pučko, Lan Lerher, Marko Laptuš (2. D, SERŠ Maribor)
 
-Stran: https://lovkardijak.github.io/rps-skupinski-projekt/
+Stran: https://timotejdijak.github.io/vaja2/
